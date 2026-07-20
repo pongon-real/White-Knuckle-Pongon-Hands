@@ -10,3 +10,5 @@ Step 2 - Unzip the Folder to C:\Program Files (x86)\Steam\steamapps\common\White
 NOTE: MAKE SURE ITS NOT TWO FOLDERS INSIDE EACHOTHER.
 
 Step 3 - Enjoy!!
+
+note - yes i know these are missing sprites with the nest update just be patient pleaseee
